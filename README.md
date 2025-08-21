@@ -38,5 +38,8 @@ To deploy your own version of this 404 page:
 
 ###### You can use your own live HTML server of choice, but I would recommend using the http-server package on npm (providing you have node.js installed):
 
-Happy Coding!
+ 
+
+**Happy Coding!**
+
 Nate from RBC Technology.
