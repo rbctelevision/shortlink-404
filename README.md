@@ -8,7 +8,7 @@ This repository contains the HTML and assets for a minimalist and branded 404 pa
 
 ## Repository Contents
 
-- `.github/workflows/` – Github pages configuration files.
+- `.github/workflows/static.yml` – Github pages configuration files.
 - `index.html` – The main HTML file defining the 404 error page layout and content.
 - `light-bulb.png` – A lightbulb image (because why not).
 - `LICENSE.md` - The License for this repo.
