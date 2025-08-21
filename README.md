@@ -4,7 +4,7 @@ A custom 404 error page designed for short links, hosted at [https://404.rbctv.x
 
 ## Overview
 
-This repository contains the HTML and assets for a minimalist and branded 404 page, intended to be displayed when short URLs on 404.rbctv.xyz don’t resolve. It’s a simple yet effective fallback for missing or expired links.
+This repository contains the HTML and assets for a minimalist and branded 404 page, intended to be displayed when short URLs on 404.rbctv.xyz don’t exist.
 
 ## Repository Contents
 
