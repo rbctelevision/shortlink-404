@@ -35,11 +35,12 @@ To deploy your own version of this 404 page:
    npm i -g http-server
    http-server
    ```
-
-###### You can use your own live HTML server of choice, but I would recommend using the http-server package on npm (providing you have node.js installed):
+You can use your own live HTML server of choice, but I would recommend using the http-server package on npm (providing you have node.js installed):
 
  
 
 **Happy Coding!**
 
 Nate from RBC Technology.
+
+###### © shortlink-404 2025 by Roblox Broadcasting Corporation is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://github.com/rbctelevision/shortlink-404/blob/main/LICENSE.md
